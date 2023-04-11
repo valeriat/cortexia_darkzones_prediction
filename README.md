@@ -6,7 +6,7 @@
 
 # Cortexia - Darkzones Prediction
 
-This repository contains complete [SIT Academy](https://sit.academy/) students' final project, developed during July 2022.
+This repository contains complete [SIT Academy](https://sit.academy/) company project, developed during July 2022.
 
 The project was done in collaboration with the former students of SIT Academy Data Science Program and the Lead Data Scientist in Cortexia: Sustainable Clean City [Julien Dupon](https://www.linkedin.com/in/julien-dupont-rochat/).
 
